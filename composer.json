@@ -1,0 +1,10 @@
+{
+  "name": "LocalLib",
+  "version": "1.0.0",
+  "require" : {
+    "php" : "^7.0"
+  },
+  "autoload": {
+    "psr-4": { "Local\\": ["src/Local/", "lib/Local/"] }
+  }
+}
