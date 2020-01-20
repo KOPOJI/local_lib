@@ -1,6 +1,7 @@
 <?php
 /**
  * example of use:
+ * need to run `composer install` before
  */
 require_once 'vendor/autoload.php';
 
